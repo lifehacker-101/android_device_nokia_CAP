@@ -137,9 +137,8 @@ PRODUCT_PACKAGES += \
     gralloc.trinket \
     hwcomposer.trinket \
     memtrack.trinket \
-    libdisplayconfig \
     libdisplayconfig.qti \
-    libdisplayconfig.vendor \
+    libdisplayconfig.system.qti \
     libtinyxml \
     libtinyxml.vendor \
     libvulkan \
