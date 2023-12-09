@@ -139,8 +139,6 @@ PRODUCT_PACKAGES += \
     memtrack.trinket \
     libdisplayconfig.qti \
     libdisplayconfig.system.qti \
-    libtinyxml \
-    libtinyxml.vendor \
     libvulkan \
     libqdMetaData \
     libqdMetaData.system
